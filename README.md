@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/prateek-pant-00390a239/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/prateek_pant_/" target="_blank">
+  <a href="https://www.instagram.com/_prateek_pant____/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Blaster1617/" target="_blank">
